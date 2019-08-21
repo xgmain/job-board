@@ -1,4 +1,4 @@
-# Sidekicker coding challenge frontend
+# Job board react frontend
 
 ## Install
 - `cd frontend`
