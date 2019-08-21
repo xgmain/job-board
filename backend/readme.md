@@ -1,4 +1,4 @@
-# Sidekicker coding challenge backend
+# Job board backend
 
 ## Install
 - `docker-compose build`
