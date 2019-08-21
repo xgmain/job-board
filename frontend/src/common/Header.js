@@ -16,7 +16,7 @@ class Header extends Component {
 
     return (
       <header style={header}> 
-        Good luck on Sidekicker Coding Challenge 
+        Job board
         <button type="button" style={headerRight} className="btn btn-primary" data-toggle="modal" data-target="#createJob">
           Create a job
         </button>
