@@ -1,4 +1,4 @@
-# How to run Docker
+# This is cut down version for code review purpose
 
 ## Setup
 * Install [Docker](https://docs.docker.com/get-started/)
